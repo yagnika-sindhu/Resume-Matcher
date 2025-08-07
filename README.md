@@ -35,6 +35,11 @@ The final model (XGBoost) achieved:
 Sourced from Hugging Face:
 [Resume-Job Fit Dataset](https://huggingface.co/datasets/cnamuangtoun/resume-job-description-fit)
 
-Labels:
+## Labels:
 - 0 = No Fit
 - 1 = Good Fit
+  
+## 📁 Run the Project
+
+Use the Colab notebook: [Open in Colab](https://colab.research.google.com/drive/1UFwnwgEYHElDvsIN6NN2ikxeNEnWENGw)
+
