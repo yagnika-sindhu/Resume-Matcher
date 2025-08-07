@@ -1,0 +1,8 @@
+## ⚙️ Requirements
+
+```bash
+scikit-learn
+xgboost
+lightgbm
+catboost
+nltk
